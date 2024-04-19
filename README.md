@@ -28,14 +28,14 @@ For each week, you should complete all elements inside **Tasks** section. If you
 3. Follow the tutorial to set up your development environment and get started with SAP BTP creating your first application.
 
 ### Additional Resources
-- **Course (CAPire)](https://cap.cloud.sap/docs/)
+- **Course:** (CAPire)](https://cap.cloud.sap/docs/)
 - **Reading:** [Node.js introduction](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 
 ### Milestore project: Bookshop app
 Develop a simple CAP Node.js application using SAP Business Application Studio.
 
 1. Ask for a trail account in SAP BTP
-2. [Implement a simple Bookshop App](https://developers.sap.com/tutorials/appstudio-cap-app.html)!
+2. [Implement a simple Bookshop App](https://developers.sap.com/tutorials/appstudio-cap-app.html)
 3. Host this into the BTP trail account
 4. Create an open repository in github to share your code
 
