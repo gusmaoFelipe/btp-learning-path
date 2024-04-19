@@ -28,7 +28,7 @@ For each week, you should complete all elements inside **Tasks** section. If you
 3. Follow the tutorial to set up your development environment and get started with SAP BTP creating your first application.
 
 ### Additional Resources
-- **Course:** (CAPire)](https://cap.cloud.sap/docs/)
+- **Course:** [CAPire](https://cap.cloud.sap/docs/)
 - **Reading:** [Node.js introduction](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 
 ### Milestore project: Bookshop app
