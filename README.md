@@ -13,34 +13,44 @@ For each week, you should complete all elements inside **Tasks** section. If you
 ## Week 1: Introduction to SAP BTP
 
 ### Overview
-- Understand the core components and capabilities of SAP Business Technology Platform.
-- Explore the various services offered by BTP and their use cases.
+- Understand the core components and capabilities of SAP Business Technology Platform;
+- Explore the various services offered by BTP and their use cases;
 - Setup development environment for BTP.
 
 ### Resources
-- **Documentation:** [SAP BTP Official Documentation](https://help.sap.com/viewer/product/BTP)
-- **Course:** [Discovering SAP Business Technology Platform](https://learning.sap.com/learning-journeys/discover-sap-business-technology-platform)
-- **Tutotial/Hands-on practice:** [Develop a Business App Using SAP Business Application Studio](https://developers.sap.com/tutorials/appstudio-cap-app.html)
+- **Documentation:** [SAP BTP Official Documentation](https://help.sap.com/viewer/product/BTP);
+- **Course:** [Discovering SAP Business Technology Platform](https://learning.sap.com/learning-journeys/discover-sap-business-technology-platform);
+- **Tutotial/Hands-on practice:** [Develop a Business App Using SAP Business Application Studio](https://developers.sap.com/tutorials/appstudio-cap-app.html).
 
 ### Tasks
-1. Explore the official documentation of SAP BTP to familiarize yourself with its core components and services.
-2. Complete the course Discovering SAP Business Technology Platform
+1. Explore the official documentation of SAP BTP to familiarize yourself with its core components and services;
+2. Complete the course Discovering SAP Business Technology Platform;
 3. Follow the tutorial to set up your development environment and get started with SAP BTP creating your first application.
-
-### Additional Resources
-- **Course:** [CAPire](https://cap.cloud.sap/docs/)
-- **Reading:** [Node.js introduction](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 
 ### Milestore project: Bookshop app
 Develop a simple CAP Node.js application using SAP Business Application Studio.
 
-1. Ask for a trail account in SAP BTP
-2. [Implement a simple Bookshop App](https://developers.sap.com/tutorials/appstudio-cap-app.html)
-3. Host this into the BTP trail account
-4. Create an open repository in github to share your code
+1. Ask for a trail account in SAP BTP;
+2. [Implement a simple Bookshop App](https://developers.sap.com/tutorials/appstudio-cap-app.html);
+3. Host this into the BTP trail account;
+4. Create an open repository in github to share your code.
 
-## Week 2: Coming Soon
-Stay tuned for Week 2.
+## Week 2: Starting with CAP
+
+### Overview
+- Understand the definition and important concepts about SAP CAP;
+- Comprehend the most prominent tasks within CAP's universe of discourse.
+
+### Resources
+- **Course:** [CAPire](https://cap.cloud.sap/docs/)
+
+### Additional Resources
+- **Reading:** [Node.js introduction](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+
+### Tasks
+1. Explore the Getting Started section of CAPire;
+2. Explore the Cookbook section of CAPire;
+3. Explore the Core Data Services (CDS) section of CAPire.
 
 ## Week 3: Coming Soon
 Stay tuned for Week 3.
